@@ -6,8 +6,24 @@
 Welcome to CrystalEMR Knowledge base's documentation!
 =====================================================
 Hello world
-This is a Knowledge base for CrystalEMR Android App.
+This is a **Knowledge base** for *CrystalEMR* Android App.
 You can find here all the details required to get started with CrystalEMR App
+
+In this document, you find ``all`` the ``details`` required to self-learn the CrystalEMR
+App. Please refer sections on left menu bar and navigate to required section.
+
+.. note::
+   note one 
+   note two
+   note three
+
+   
+Sample Details::
+
+   x=5
+   for n in range(x):
+       print("hello world")
+
 
 .. toctree::
    :maxdepth: 2
